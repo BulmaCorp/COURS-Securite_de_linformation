@@ -2,8 +2,8 @@ https://mixolydian-walleye-6c0.notion.site/S-curit-de-l-information-6c1f1f6e36a3
 
 L'ensemble de mes notes de cours sur la Sécurité de l'information
 
-From 0 ti IT hero :
-- Code (Lagages de programmation, bash, C, Pythin, editeurs, CMD, Powershell)
+From 0 to IT hero :
+- Code (bash, C, Python, editeurs, CMD, Powershell)
 - OS && more (SUID, Cronjon et planification, INTEL Network, INTEL OS, Windows fondamentals, computer)
 - Devsecops (Insecure Design, Security Misconfiguration, Vulnerable && Outdates, Software data intigrity, VM && container, Hardning K8|Cont|Cloud)
 - Cryptography && encryption (Cryptographie, steganography, chiffrement)
